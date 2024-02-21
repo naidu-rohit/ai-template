@@ -144,7 +144,6 @@ db/
 .DS_Store
 credentials/
 .localenv
-/data/*
 /logs/*
 
 .env
